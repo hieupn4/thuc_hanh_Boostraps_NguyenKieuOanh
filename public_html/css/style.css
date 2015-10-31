@@ -1,0 +1,240 @@
+/* w:1360 */
+   
+html {
+    background-image: url("../image/backround2.jpg");
+}
+body
+{
+    width: 90%;
+    margin: auto;
+}
+.col-md-4
+{
+    height: auto;
+    padding: 0px;
+    position: realative;
+    
+}
+.col-md-4 img
+{
+    padding-left: 30px;
+}
+.col-md-4 ul li
+{
+    font-family: Helvetica;
+	font-size: 20px;
+	color: #999;
+}
+.col-md-4 ul
+{
+    list-style-type: none;
+    padding-top: 18px;
+}
+.col-md-4 p
+{
+    font-family: Helvetica;
+	font-size: 36px;
+	color: #999;
+        padding-top: 18px;
+}
+.image-center
+{
+    background-image: url("../image/br.jpg");
+    background-repeat: repeat-x;
+}
+.container .col-md-4 ul,.container .col-md-4 p
+{
+    width:92%;
+    height: 120px;
+    background-color: #f1f1f1;
+}
+.container .col-md-4 ul
+{
+    position: absolute;
+    right: 0px;
+}
+.img-responsive
+{
+    width: 97.4%;
+    height: auto;
+}
+div.col-md-4.image-center img
+{
+    width: auto;
+    height: auto;
+}
+.navbar-nav 
+{
+    background-color: #3f81a1;
+    width: 100%;
+}
+ul>li>a
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #ffffff;
+    
+    
+}
+ul.nav.navbar-nav li
+{
+    float: none;
+    display: inline-block;
+    margin: 0px;
+}
+ul.nav.navbar-nav li a
+{
+    padding-left: 37px;
+    padding-right: 37px;
+}
+.col-md-12
+{
+    
+}
+.col-md-12 #content-top
+{
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 335px;
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-right: 30px;
+    margin-bottom: 28px;
+}
+.col-md-12 #content-top h2
+{
+    font-family: "Myriad Pro";
+    font-size: 36px;
+    color: #666;
+    text-align: center;
+}
+.col-md-12 #content-top p
+{
+    font-family: "Myriad Pro";
+    font-size: 16px;
+    color: #666;
+}
+.col-md-5 img
+{
+    padding-top: 28px;
+    padding-left: 92px;
+}
+.col-md-7 h1,.col-md-7 p,.col-md-7 a,.cod-md-8 h1,.col-md-8 p,.cod-md-8 a
+{
+   padding-left: 15px;
+   font-family: "Myriad Pro";
+   font-size: 16px;
+   color: #666;
+}
+.col-md-8 p
+{
+    padding-left: 1px;
+    padding-right: 43px;
+
+}
+.col-md-7 h1
+{
+   font-family: Helvetica;
+   font-size: 36px;
+   color: #666; 
+}
+.col-md-8 
+{
+    padding-top: 0px;
+}
+.col-md-8 h1
+{
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.center-content
+{
+    display: block;
+    height:350px; 
+}
+.col-md-7 a,.col-md-8 a
+{
+    display: block;
+    width: 120px;
+    padding-top: 13px;
+    padding-left: 23px;
+    height:44px;
+    background-color: #3f81a1;
+    font-family: "Myriad Pro";
+    font-size: 16px;
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 92px;
+}
+.col-md-8 a
+{
+    
+}
+.content-right
+{
+    display: block;
+}
+.col-md-6
+{
+    background-image: url("../image/phay.jpg");
+    background-repeat: no-repeat;
+    padding-left:60px; 
+    margin-left: 50px;
+    margin-right: -50px;
+    margin-top: 15px;
+}
+.col-md-6 p
+{
+    width: 362px;
+    font-family: "Myriad Pro";
+    font-size: 16px;
+}
+.col-md-6 span
+{
+    color: #3f81a1;
+}
+div.col-md-12 h1
+{
+    text-align: center;
+    margin-top: 100px;
+}
+div.footer
+{
+    width: 100%;
+    height: 140px;
+    background-image: url("../image/Mancoll.jpg"), url("../image/footer.jpg");
+    background-position: center bottom, left top;
+    background-repeat: no-repeat,repeat;
+    padding-left: 40px;
+    
+}
+div.footer a
+{
+  
+    float: right;
+    margin-top: 50px;
+    margin-right: 30px;
+    
+}
+div.footer p
+{
+    display: inline-block;
+    float: left;
+    margin-top: 43px;
+    //height: 300px;
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    color: #999;
+}
+.col-md-8 a
+{
+    margin-top: 85px;
+}
+.row
+{
+    margin-bottom: 30px;
+}
+#banner
+{
+    margin-bottom: 0px;
+}
